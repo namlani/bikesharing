@@ -44,8 +44,8 @@ The below shows a similar pattern for both me nand women:
 
 The key takeaways from this analysis are:
 
-1. Men are the highest demographic of user. This could suggest a way of advertising.
-2. Bikes are most often used during work commute hours. This could suggest another way of advertising.
+1. Men are the highest demographic of user. This could suggest a way of targeting advertising.
+2. Bikes are most often used during work commute hours. This could suggest another way of targeting advertising.
 3. The higher the population is in an area, the more bikes there should be.
 
 See above analysis as a Tableau dashboard here:

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-To analyze CitiBike data in order to determine if a bike-sharing program in Des Moines is a solid business proposal.
+To analyze CitiBike data in order to determine if a bike-sharing program in Des Moines is a valid business proposal.
 
 ## Results
 

@@ -50,5 +50,5 @@ The key takeaways from this analysis are:
 
 See above analysis as a Tableau dashboard here:
 
-[link to dashboard]https://public.tableau.com/shared/6TBRGGK4Q?:display_count=n&:origin=viz_share_link
+[link to dashboard](https://public.tableau.com/shared/6TBRGGK4Q?:display_count=n&:origin=viz_share_link)
 
